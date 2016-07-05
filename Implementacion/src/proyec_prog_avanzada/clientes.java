@@ -5,7 +5,7 @@ public class clientes extends javax.swing.JFrame {
     public clientes() {
         initComponents();
         this.setTitle("Registro Cliente");
-        this.setLocationRelativeTo(null);
+        this.setLocationRelativeTo(null);//comentario
     }
 
     @SuppressWarnings("unchecked")
