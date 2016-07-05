@@ -2,7 +2,7 @@ package proyec_prog_avanzada;
 
 public class administrador extends javax.swing.JFrame {
     
-    String tipoUsuario = null;
+    String tipoUsuario = null;//comentario
 
     public String getTipoUsuario() {
         return tipoUsuario;
